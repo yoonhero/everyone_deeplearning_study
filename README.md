@@ -20,7 +20,7 @@
 
 - [가장 휼륭한 모델](https://github.com/yoonhero/everyone_deeplearning_study/tree/master/14_best_model)
 
-- [텐서플로우 선형 회귀](https://github.com/yoonhero/everyone_deeplearning_study/tree/master/14_linear_regression)
+- [텐서플로우 선형 회귀](https://github.com/yoonhero/everyone_deeplearning_study/tree/master/15_linaer_regression)
 
 - [이미지 인식 CNN](https://github.com/yoonhero/everyone_deeplearning_study/tree/master/16_image_recognition)
 
